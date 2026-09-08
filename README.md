@@ -8,7 +8,7 @@ The project uses a real-world data science jobs dataset from 2023 and demonstrat
 
 ### Dashboard File
 
-My final dashboard is available in [01_Salary_Calculation_Project.xlsx](01_Salary_Calculation_Project.xlsx).
+My final dashboard is available in  [01_Salary_Dashboard.xlsx](01_Salary_Dashboard.xlsx)
 
 ### Excel Skills Used
 
